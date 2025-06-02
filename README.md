@@ -22,8 +22,6 @@ This project explores the relationship between average emergency response times 
 ---
 
 
----
-
 ## 📌 Sample Output
 
 - 🕓 **Latest date in FDNY dataset**: `June 2017`
